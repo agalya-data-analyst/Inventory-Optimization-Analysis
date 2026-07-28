@@ -51,7 +51,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 
 <!-- INSERT YOUR HISTOGRAM / DISTRIBUTION CHART SCREENSHOT HERE -->
 ![Central Tendency & Metric Distribution](<img width="613" height="393" alt="image" src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" />
-<img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" />
+                                          <img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" />
 
 )
 
@@ -99,7 +99,7 @@ Inventory-Optimization-Analysis/
 │
 └── README.md                                 # Main Project Documentation
 
-## 👤 ## 🤝 Connect & Feedback
+## 🤝 Connect & Feedback
 
 | Attribute | Details |
 | :--- | :--- |
