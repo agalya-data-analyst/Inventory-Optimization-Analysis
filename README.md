@@ -66,6 +66,9 @@ This project delivers an end-to-end data analytics framework designed to analyze
 > **Finding:** Unmanaged product returns directly erode gross sales margins, driving net profit performance down across impacted product categories.
 
 <img src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" width="700" />
+
+---
+
 ## 💡 Strategic Business Recommendations
 
 1. **Dynamic Safety Stock Policy:** Transition from flat-rate inventory rules to dynamic buffer thresholds—holding $1\text{--}3$ units for low-velocity SKUs and scaling up to $20$ units for high-demand items to minimize holding costs.
