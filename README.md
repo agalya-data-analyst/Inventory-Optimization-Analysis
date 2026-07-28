@@ -49,28 +49,23 @@ This project delivers an end-to-end data analytics framework designed to analyze
 ### 1. Metric Distribution & Central Tendencies
 > **Finding:** The distribution of `Qty Sold` and `Turnover Index` exhibits left-skewness driven by negative transaction values representing customer product returns.
 
-<!-- INSERT YOUR HISTOGRAM / DISTRIBUTION CHART SCREENSHOT HERE -->
-![Central Tendency & Metric Distribution-1](<img width="613" height="393" alt="image" src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" />)
-![Central Tendency & Metric Distribution-2](<img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" />)
+<img src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" width="600" />
+<br><br>
+<img src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" width="600" />
 
 ---
 
 ### 2. Store Stockout Risk vs. Inventory Buffer
 > **Finding:** Cross-analyzing store inventory reveals acute stockout vulnerabilities in high-velocity stores holding minimal stock ($1.00$ unit), while low-turnover stores hold excessive deadstock.
 
-<!-- INSERT YOUR STORE COMPARISON / BAR CHART SCREENSHOT HERE -->
-![Store Stockout Risk Analysis](<img width="1490" height="690" alt="image" src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" />)
+<img src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" width="700" />
 
 ---
 
 ### 3. Profitability Erosion due to Product Returns
 > **Finding:** Unmanaged product returns directly erode gross sales margins, driving net profit performance down across impacted product categories.
 
-<!-- INSERT YOUR PROFIT EROSION / RETURN LOSS CHART SCREENSHOT HERE -->
-![Profitability & Return Rate Mitigation](<img width="689" height="474" alt="image" src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" />)
-
----
-
+<img src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" width="700" />
 ## 💡 Strategic Business Recommendations
 
 1. **Dynamic Safety Stock Policy:** Transition from flat-rate inventory rules to dynamic buffer thresholds—holding $1\text{--}3$ units for low-velocity SKUs and scaling up to $20$ units for high-demand items to minimize holding costs.
