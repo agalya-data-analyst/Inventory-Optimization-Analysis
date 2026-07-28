@@ -50,10 +50,8 @@ This project delivers an end-to-end data analytics framework designed to analyze
 > **Finding:** The distribution of `Qty Sold` and `Turnover Index` exhibits left-skewness driven by negative transaction values representing customer product returns.
 
 <!-- INSERT YOUR HISTOGRAM / DISTRIBUTION CHART SCREENSHOT HERE -->
-![Central Tendency & Metric Distribution](<img width="613" height="393" alt="image" src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" />
-                                          <img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" />
-
-)
+![Central Tendency & Metric Distribution-1](<img width="613" height="393" alt="image" src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" />)
+![Central Tendency & Metric Distribution-2](<img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" />)
 
 ---
 
@@ -61,8 +59,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 > **Finding:** Cross-analyzing store inventory reveals acute stockout vulnerabilities in high-velocity stores holding minimal stock ($1.00$ unit), while low-turnover stores hold excessive deadstock.
 
 <!-- INSERT YOUR STORE COMPARISON / BAR CHART SCREENSHOT HERE -->
-![Store Stockout Risk Analysis](<img width="1490" height="690" alt="image" src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" />
-)
+![Store Stockout Risk Analysis](<img width="1490" height="690" alt="image" src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" />)
 
 ---
 
@@ -70,8 +67,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 > **Finding:** Unmanaged product returns directly erode gross sales margins, driving net profit performance down across impacted product categories.
 
 <!-- INSERT YOUR PROFIT EROSION / RETURN LOSS CHART SCREENSHOT HERE -->
-![Profitability & Return Rate Mitigation](<img width="689" height="474" alt="image" src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" />
-)
+![Profitability & Return Rate Mitigation](<img width="689" height="474" alt="image" src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" />)
 
 ---
 
