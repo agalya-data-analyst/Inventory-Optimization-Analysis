@@ -47,26 +47,31 @@ This project delivers an end-to-end data analytics framework designed to analyze
 ## 📈 Exploratory Data Analysis & Key Visualizations
 
 ### 1. Metric Distribution & Central Tendencies
-> **Finding:** The distribution of `Qty Sold` and `Turnover Index` exhibits left-skewness driven by negative transaction values representing customer product returns.
 
 <img src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" width="600" />
 <br><br>
 <img src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" width="600" />
-
+> **🔍 Analytical Insights:**
+> * **Left-Skewed Distribution:** Both `Qty Sold` and `Turnover Index` exhibit pronounced left-skewness, driven by negative transaction values representing customer product returns.
+> * **High Sales Volatility:** A high standard deviation ($\sigma = \$75.11$) in `Sales Amount` highlights significant daily sales fluctuation linked to promotional order spikes.
+> * **Business Impact:** Unfiltered negative return transactions distort revenue forecasting and obscure true baseline sales performance.
 ---
 
 ### 2. Store Stockout Risk vs. Inventory Buffer
-> **Finding:** Cross-analyzing store inventory reveals acute stockout vulnerabilities in high-velocity stores holding minimal stock ($1.00$ unit), while low-turnover stores hold excessive deadstock.
 
 <img src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" width="700" />
-
+> **🔍 Analytical Insights:**
+> * **Critical Buffer Vulnerability:** Store-level inventory distribution indicates a `Qty on Hand` mode of just **1 unit**, exposing retail outlets to severe stockout risks during peak demand periods.
+> * **Inventory Imbalance:** High-velocity outlets consistently face stock shortage risks, while lower-turnover locations hold excessive deadstock.
+> * **Business Impact:** Misaligned stock allocation leads to lost sales opportunities, reduced customer satisfaction, and inflated holding costs in low-performing stores.
 ---
 
 ### 3. Profitability Erosion due to Product Returns
-> **Finding:** Unmanaged product returns directly erode gross sales margins, driving net profit performance down across impacted product categories.
 
 <img src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" width="700" />
-
+> **🔍 Analytical Insights:**
+> * **Margin Degradation:** Unmanaged reverse logistics and product return processing costs directly erode gross margins across top-performing sales channels.
+> * **Category Concentration:** Negative margin trends are disproportionately driven by specific product categories experiencing high return volumes.
 ---
 
 ## 💡 Strategic Business Recommendations
