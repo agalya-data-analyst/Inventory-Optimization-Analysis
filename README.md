@@ -51,6 +51,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 <img src="https://github.com/user-attachments/assets/c8fa40d3-7c31-44c9-abab-d7716ba7b469" width="600" />
 <br><br>
 <img src="https://github.com/user-attachments/assets/d5b98ebf-d108-44dc-962a-c2ec58ce6aea" width="600" />
+
 > **🔍 Analytical Insights:**
 > * **Left-Skewed Distribution:** Both `Qty Sold` and `Turnover Index` exhibit pronounced left-skewness, driven by negative transaction values representing customer product returns.
 > * **High Sales Volatility:** A high standard deviation ($\sigma = \$75.11$) in `Sales Amount` highlights significant daily sales fluctuation linked to promotional order spikes.
@@ -60,6 +61,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 ### 2. Store Stockout Risk vs. Inventory Buffer
 
 <img src="https://github.com/user-attachments/assets/298b0231-2068-4178-848b-474f68eccba3" width="700" />
+
 > **🔍 Analytical Insights:**
 > * **Critical Buffer Vulnerability:** Store-level inventory distribution indicates a `Qty on Hand` mode of just **1 unit**, exposing retail outlets to severe stockout risks during peak demand periods.
 > * **Inventory Imbalance:** High-velocity outlets consistently face stock shortage risks, while lower-turnover locations hold excessive deadstock.
@@ -69,6 +71,7 @@ This project delivers an end-to-end data analytics framework designed to analyze
 ### 3. Profitability Erosion due to Product Returns
 
 <img src="https://github.com/user-attachments/assets/bb0cde34-f01a-4f27-ab37-9c3d8aadc0f3" width="700" />
+
 > **🔍 Analytical Insights:**
 > * **Margin Degradation:** Unmanaged reverse logistics and product return processing costs directly erode gross margins across top-performing sales channels.
 > * **Category Concentration:** Negative margin trends are disproportionately driven by specific product categories experiencing high return volumes.
