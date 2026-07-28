@@ -32,6 +32,11 @@ This project delivers an end-to-end data analytics framework designed to analyze
 * **Documentation & Reporting:** Microsoft Word, PDF Formatting, Markdown (`.md`)
 
 ---
+## 📊 Dataset Access
+Due to GitHub's file size limits (>100 MB), the cleaned dataset is hosted on Google Drive:
+* 📥 [Download Cleaned Dataset (1.1M Rows CSV)](https://drive.google.com/drive/folders/1UfsWl0bHselOYe1zcfIlpgLCcfKJ0Ldr?usp=sharing)
+
+---
 
 ## 📊 Summary of EDA Findings & Key Metrics
 
