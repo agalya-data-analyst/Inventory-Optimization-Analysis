@@ -99,6 +99,8 @@ Inventory-Optimization-Analysis/
 │
 └── README.md                                 # Main Project Documentation
 
+```
+---
 ## 🤝 Connect & Feedback
 
 | Attribute | Details |
